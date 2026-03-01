@@ -71,7 +71,7 @@ In this comparison, AlexNet is expected to outperform the other two models. Tiny
 
 From the provided dataset, we were able to compare the results using 3 different types of CNN architectures(AlexNet, TinyVGG and NN). 
 We concluded that AlexNet reigned superior to the other two models at an accuracy rate of 91.13%.
-TinyVGG came second to AlexNet at  a rate of 
+TinyVGG came second to AlexNet at  a rate of 77.30%. 
 NN came at last wiht the accuracy rate of 56.04%.
 
 
