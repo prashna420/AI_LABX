@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+#AI STUFF 
+data
+\data
+\data\*
+ai_python
