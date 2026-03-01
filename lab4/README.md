@@ -69,9 +69,18 @@ In this comparison, AlexNet is expected to outperform the other two models. Tiny
 
 # **RESULTS**
 
-PENDING...
+From the provided dataset, we were able to compare the results using 3 different types of CNN architectures(AlexNet, TinyVGG and NN). 
+We concluded that AlexNet reigned superior to the other two models at an accuracy rate of 91.13%.
+TinyVGG came second to AlexNet at  a rate of 
+NN came at last wiht the accuracy rate of 56.04%.
+
 
 
 # **DISCUSSION AND CONCLUSION**
 
-PENDING...
+The parameter count for the given architectures are:
+  SimpleNN  :  3,809,034 parameters
+  AlexNet   :  7,175,754 parameters
+  TinyVGG   :  1,117,354 parameters
+
+  From the given parameters and the result obtained, we can successfully conclude that TinyVGG might be the most efficient due to less parameters but AlexNet wins in term s of accuracy. ALexNet having the highest accuracy can be attritbuted to its higher parameter count. Neural Network comes behind in both accuracy and efficiency which is due to the loss in spatial dimensionality as discussed above. 
